@@ -28,8 +28,8 @@ Rueda derecha|![wheel-r.stl](imagenes/wheel-r.png) | [wheel-r.stl](archivos-stl/
 Para esta versión tienes una guía de soldadura creada por XDeSIG donde puedes ver cada componente en tres idiomas:
 
 - [Guía Gallego](https://drive.google.com/file/d/0B8qe5ux0eH6Ca1RxaEpXN0RBNzQ/view) 
-- [Guía Gastellano](https://drive.google.com/file/d/1LsLHT4FGi4LXgHwbQ9Av0ggsQkUQL7MU/view)  
-- [Guía Gatalán](https://drive.google.com/file/d/1ZNXCGC65Pyris7Z-aMvKBDYPzR_YNUv_/view)  
+- [Guía Castellano](https://drive.google.com/file/d/1LsLHT4FGi4LXgHwbQ9Av0ggsQkUQL7MU/view)  
+- [Guía Catalán](https://drive.google.com/file/d/1ZNXCGC65Pyris7Z-aMvKBDYPzR_YNUv_/view)  
 
 Si eres de los que no les gusta complicarse, puedes pedir tu kit abriendo un tema nuevo en el grupo de google, te dejo link donde XDeSIG explica las diferentes opciones que tienes [pincha aquí](https://groups.google.com/forum/#!topic/escornabot_users/paQGTPHzNTQ)
   
